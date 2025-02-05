@@ -1,1 +1,4 @@
 *.docx
+
+#ignore semua file .py
+/temp/*.php
